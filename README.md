@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src=".github/assets/app.png" alt="The Zeptap app on a Mac, showing three connected iPhones live with Home, Mute, Brightness, Screenshot and Record controls" width="100%">
+  <img src=".github/assets/app.png" alt="Zeptap on a Mac driving three iPhones at once: Instagram, Reddit and LinkedIn, each with Home, Mute, Brightness, Screenshot and Record controls" width="100%">
 </p>
 
 ## What it is
